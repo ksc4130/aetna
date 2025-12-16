@@ -1,0 +1,15 @@
+export const EMBEDDING_DIMENSIONS = 1536;
+export const MAX_TARGET_AUDIENCE_LENGTH = 100;
+export const MAX_REASONING_LENGTH = 500;
+export const MAX_SUMMARY_LENGTH = 500;
+export const MAX_GENRES = 5;
+export const MAX_MOVIES_FOR_RECOMMEND_CONTEXT = 50;
+export const MAX_QUERY_LENGTH = 500;
+export const EMBEDDING_MODEL = "text-embedding-3-small";
+export const MODEL_MINI = 'gpt-4o-mini';
+export const MODEL_FULL = 'gpt-5.2-chat-latest';
+export const MAX_ENRICHMENT_TOKENS = 2000;
+export const MAX_RECOMMENDATION_TOKENS = 2500;
+export const MAX_RATING_SUMMARY_TOKENS = 800;
+export const MAX_COMPARISON_TOKENS = 1000;
+export const MAX_QUERY_ENHANCE_TOKENS = 1000;
